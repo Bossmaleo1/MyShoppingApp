@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyShoppingListApp</string>
+    <string name="google_maps_key">AIzaSyDCjOptVUROx8RDhMhTmptiXAvMVGQv4wE</string>
+    <!--string name="google_maps_key">AIzaSyCnfwyKH4V8CE5XR38GGg_uZysFyHIXeZU</string-->
+
 </resources>
